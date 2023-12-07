@@ -1,0 +1,47 @@
+MW_ArduinoHWInit.o: \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/registry/../src/MW_ArduinoHWInit.cpp \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/include/io_wrappers.h \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/feedback_motor/actuation_ert_rtw/rtwtypes.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/include/MW_ArduinoHWInit.h
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/include/io_wrappers.h:
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/feedback_motor/actuation_ert_rtw/rtwtypes.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/include/MW_ArduinoHWInit.h:

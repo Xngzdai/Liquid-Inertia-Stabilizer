@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h:

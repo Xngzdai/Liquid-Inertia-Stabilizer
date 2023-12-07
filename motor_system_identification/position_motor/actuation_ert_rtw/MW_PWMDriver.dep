@@ -1,0 +1,20 @@
+MW_PWMDriver.o: \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/src/MW_PWMDriver.c \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/include/MW_PWMDriver.h \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_private.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinobase/include/MW_PWMDriver.h:
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_private.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h:

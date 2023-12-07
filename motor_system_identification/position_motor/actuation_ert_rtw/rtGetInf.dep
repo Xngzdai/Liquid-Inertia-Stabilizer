@@ -1,0 +1,11 @@
+rtGetInf.o: \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtGetInf.c \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtGetInf.h \
+ /Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rt_nonfinite.h
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtwtypes.h:
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rtGetInf.h:
+
+/Users/daixingze/MATLAB-Drive/UMICH/ME\ 450/motor_system_identification/actuation_demo/actuation_ert_rtw/rt_nonfinite.h:

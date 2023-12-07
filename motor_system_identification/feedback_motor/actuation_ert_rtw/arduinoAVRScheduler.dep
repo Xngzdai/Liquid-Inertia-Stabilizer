@@ -1,0 +1,38 @@
+arduinoAVRScheduler.o: \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/registry/../scheduler/src/arduinoAVRScheduler.cpp \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ /Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/3P.instrset/arduinoide.instrset/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+/Users/daixingze/Documents/MATLAB/SupportPackages/R2022a/toolbox/target/supportpackages/arduinotarget/scheduler/include/arduinoAVRScheduler.h:
